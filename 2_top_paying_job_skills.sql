@@ -1,4 +1,10 @@
-
+/*
+Question: What skills are required for the top-paying Data Analyst jobs?
+- Use the top 10 highest-paying Data Analyst jobs from first query
+- Add the specific skills required for thes roles
+- Why? It provides a detailed look at which high-paying jobs deman certain skills,
+  helping job seekers understand which skills to develop that align with top salaries
+*/
 WITH top_paying_jobs AS (
     SELECT
         job_id,
@@ -31,7 +37,7 @@ Python remains a highly sought-after skill, with a bold count of 236.
  Tableau is also in demand, with a bold count of 230.
 Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-Below shows first 10 output:
+Below shows only first 10 output:
 
 [
   {
