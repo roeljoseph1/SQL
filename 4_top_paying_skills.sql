@@ -130,4 +130,4 @@ Here's a breakdown of the results for top paying skills based on salary
     "avg_salary": "121619"
   }
 ]
-/*
+*/
